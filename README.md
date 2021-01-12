@@ -1,18 +1,4 @@
-# MOOCTextEditor 
-
-/ Starter Code and GUI Application for Course 2 in the
-/ Java Programming: Object Oriented Design of 
-/ Data Structures Specialization:
-/
-/ Data structures: Measuring and Optimizing Performance
-/ https://www.coursera.org/learn/data-structures-optimizing-performance
-/
-/ Authored by UCSD MOOC Team:
-/ Mia Minnes, Christine Alvarado, Leo Porter, Alec Brickman
-/ and Adam Setters
-/
-/ Date: 01/07/2021
-  
+# MOOCTextEditor   
 
 The project **MOOCTextEditor or Smart Text Editor** was designed and developed as part of the Coursera course Data Structure and Performance that provides functionality of autocomplete, flagging misspelled words and spelling auto-correct. Each module of the course required implementing backend code for the text editor where front-end a runnable JavaFX program and certain graders and tester classes was provided by the UCSD to test and demonstrate the implementations.   
 
@@ -58,11 +44,3 @@ Importing Project into eclipse:
 **Notes:**
 * Make sure to use Java 8. The RichTextFX API (richtextfx-fat-0.6.10.jar) that is included in the MOOCTextEditor project does not work with Java 9.   
 * Feel free to use another IDE or manually compile and run your programs.   
-Feel free to use another IDE or manually compile and run your programs.
-If you need help, google is your friend.
-
------------------------------------------------------[ ACKNOWLEDGEMENTS]--
-
-A big thank you to University of California San Diego for The guided project.
-
-
